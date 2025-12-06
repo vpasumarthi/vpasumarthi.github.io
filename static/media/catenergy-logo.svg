@@ -1,0 +1,26 @@
+<svg width="320" height="160" viewBox="0 0 320 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cat-bg" x1="24" y1="18" x2="296" y2="142" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9FFFB"/>
+      <stop offset="1" stop-color="#ECF7F0"/>
+    </linearGradient>
+    <linearGradient id="cat-hex" x1="50" y1="44" x2="130" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16A34A"/>
+      <stop offset="1" stop-color="#047857"/>
+    </linearGradient>
+    <linearGradient id="cat-bolt" x1="86" y1="54" x2="114" y2="106" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FACC15"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="10" y="10" width="300" height="140" rx="18" fill="url(#cat-bg)"/>
+  <rect x="34" y="24" width="120" height="112" rx="18" fill="#FFFFFF" stroke="#E1F1E6" stroke-width="2"/>
+
+  <path d="M90 34L140 62V118L90 146L40 118V62L90 34Z" fill="url(#cat-hex)"/>
+  <path d="M98 58L78 96H94L84 122L112 86H96L110 58H98Z" fill="url(#cat-bolt)"/>
+  <circle cx="90" cy="90" r="48" stroke="#FFFFFF" stroke-width="6" opacity="0.65"/>
+
+  <text x="168" y="78" fill="#0F2A1C" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="0.4">CatEnergy</text>
+  <text x="168" y="108" fill="#1F5B35" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0.2">Catalysis · Energy · HPC Workflows</text>
+</svg>

@@ -1,0 +1,10 @@
+/* Custom styles for the site */
+
+/* Make the author name slightly larger than the role/title */
+h1.text-5xl,
+h1.text-6xl,
+.text-5xl,
+.text-6xl {
+  font-size: 1.875rem !important;
+  line-height: 2.25rem !important;
+}
