@@ -157,7 +157,7 @@ I am a computational scientist and postdoctoral research associate working at th
 - V. Pasumarthi, et al. **A Comparative Study of Electrical Double Layer Effects for CO Reduction Reaction Kinetics.** *J. Phys. Chem. C* 2023, 127, 16850–16860. [[DOI]](https://doi.org/10.1021/acs.jpcc.3c02953)
 - V. Pasumarthi, et al. **Charge Carrier Transport Dynamics in W/Mo-doped BiVO₄: First Principles-Based Mesoscale Characterization.** *J. Mater. Chem. A* 2019, 7, 3054–3065. [[DOI]](https://doi.org/10.1039/c8ta09899a)
 - T. Liu, V. Pasumarthi, et al. **Bimodal Hole Transport in Bulk BiVO₄ from Computation.** *J. Mater. Chem. A* 2018, 6, 3714–3723. [[DOI]](https://doi.org/10.1039/C7TA10170H)
-- D. Baruah, et al. (incl. V. Pasumarthi). **Formic Acid Powered Reusable Autonomous Ferrobots for Efficient Hydrogen Generation.** *J. Mater. Chem. A* 2018, 6, 10992–10999. [[DOI]](https://doi.org/10.1039/C8TA02205D)
+- A. K. Singh, S. Rarotra, V. Pasumarthi, et al. **Formic acid powered reusable autonomous ferrobots for efficient hydrogen generation under ambient conditions.** *J. Mater. Chem. A* 2018, 6, 9209-9219. [[DOI]](https://doi.org/10.1039/C8TA02205D)
 
 ## 🎖️ Honors & Awards {#awards}
 
