@@ -47,13 +47,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-8104-4918
 
-interests:
-  - Computational catalysis
-  - DFT and ab initio molecular dynamics
-  - Energy conversion and electrocatalysis
-  - Multiscale materials modeling
-  - Scientific software and workflow automation
-  - Data-driven materials modeling and ML
+interests: []
 
 # education:
 #   - area: Ph.D. in Chemical Engineering
@@ -86,7 +80,7 @@ work:
     date_start: ''
     date_end: ''
     summary: |2-
-      Conducting extensive ab initio molecular dynamics simulations for low-temperature electrocatalytic alkane dehydrogenation on Pt-based catalysts. Elucidating effects of solvation and surface charge on adsorption and reactivity.
+      Conducting extensive *ab initio* molecular dynamics simulations for low-temperature electrocatalytic alkane dehydrogenation on Pt-based catalysts. Elucidating effects of solvation and surface charge on adsorption and reactivity.
   - position: Postdoctoral Scholar
     company_name: SUNCAT Center for Interface Science and Catalysis, SLAC National Accelerator Laboratory
     company_url: 'https://suncat.stanford.edu/'
@@ -133,13 +127,13 @@ languages:
 awards: []
 ---
 
-I am a computational scientist and postdoctoral research associate working at the intersection of chemistry, catalysis, and materials science. I use ab initio molecular dynamics, density functional theory, and multiscale modeling to understand surface reactions that matter for energy conversion and electrocatalysis. My work also includes building open source scientific software and automated workflows in Python that run on high performance computers. I enjoy taking ideas from first principles simulations to practical insight, and collaborating with both academic and industrial teams. I previously worked with the SUNCAT Center at SLAC and am currently based in Lafayette, Indiana, USA.
+I am a computational scientist and postdoctoral research associate working at the intersection of chemistry, catalysis, and materials science. I use *ab initio* molecular dynamics, density functional theory, and multiscale modeling to understand surface reactions that matter for energy conversion and electrocatalysis. My work also includes building open source scientific software and automated workflows in Python that run on high performance computers. I enjoy taking ideas from first principles simulations to practical insight, and collaborating with both academic and industrial teams. I previously worked with the SUNCAT Center at SLAC and am currently based in Lafayette, Indiana, USA.
 
 
 ## Research {#research}
 
 - Computational catalysis and surface reaction mechanisms for energy conversion and electrocatalysis
-- Methods across density functional theory, ab initio molecular dynamics, and multiscale modeling to bridge atomic-scale insights to device-level behavior
+- Methods across density functional theory, *ab initio* molecular dynamics, and multiscale modeling to bridge atomic-scale insights to device-level behavior
 - Python-based scientific software, automated workflows, and high performance computing for large simulation campaigns
 - Data-driven modeling and machine learning for materials, integrated with first-principles simulations
 - Collaboration with academic and industrial partners to translate simulations into process-level guidance
