@@ -1,7 +1,7 @@
 # Navigation Links
 
 main:
-  - name: Home
+  - name: About Me
     url: /
     weight: 10
   - name: Research

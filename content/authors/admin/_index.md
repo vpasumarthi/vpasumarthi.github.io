@@ -55,28 +55,28 @@ interests:
   - Scientific software and workflow automation
   - Data-driven materials modeling and ML
 
-education:
-  - area: Ph.D. in Chemical Engineering
-    institution: University at Buffalo, The State University of New York
-    icon: ""
-    date_start: ''
-    date_end: ''
-    summary: ''
-    button:
-      text: ''
-      url: ''
-  - area: M.Tech in Chemical Engineering
-    institution: Indian Institute of Technology, Guwahati
-    icon: ""
-    date_start: ''
-    date_end: ''
-    summary: ''
-  - area: B.Tech in Chemical Engineering
-    institution: National Institute of Technology, Calicut
-    icon: ""
-    date_start: ''
-    date_end: ''
-    summary: ''
+# education:
+#   - area: Ph.D. in Chemical Engineering
+#     institution: University at Buffalo, The State University of New York
+#     icon: ""
+#     date_start: ''
+#     date_end: ''
+#     summary: ''
+#     button:
+#       text: ''
+#       url: ''
+#   - area: M.Tech in Chemical Engineering
+#     institution: Indian Institute of Technology, Guwahati
+#     icon: ""
+#     date_start: ''
+#     date_end: ''
+#     summary: ''
+#   - area: B.Tech in Chemical Engineering
+#     institution: National Institute of Technology, Calicut
+#     icon: ""
+#     date_start: ''
+#     date_end: ''
+#     summary: ''
 
 work:
   - position: Postdoctoral Research Associate
@@ -133,7 +133,8 @@ languages:
 awards: []
 ---
 
-Viswanath Pasumarthi is a computational scientist and postdoctoral research associate who works at the intersection of chemistry, catalysis, and materials science. He uses ab initio molecular dynamics, density functional theory, and multiscale modeling to understand surface reactions that matter for energy conversion and electrocatalysis. His work also includes building open source scientific software and automated workflows in Python that run on high performance computers. Viswanath enjoys taking ideas from first principles simulations to practical insight, and collaborating with both academic and industrial teams. He previously worked with the SUNCAT Center at SLAC and is based in Lafayette, Indiana, USA.
+I am a computational scientist and postdoctoral research associate working at the intersection of chemistry, catalysis, and materials science. I use ab initio molecular dynamics, density functional theory, and multiscale modeling to understand surface reactions that matter for energy conversion and electrocatalysis. My work also includes building open source scientific software and automated workflows in Python that run on high performance computers. I enjoy taking ideas from first principles simulations to practical insight, and collaborating with both academic and industrial teams. I previously worked with the SUNCAT Center at SLAC and am currently based in Lafayette, Indiana, USA.
+
 
 ## Research {#research}
 
@@ -162,4 +163,10 @@ Viswanath Pasumarthi is a computational scientist and postdoctoral research asso
 
 - **ACS CATL Travel Award** — American Chemical Society, Division of Catalysis Science and Technology
 - **Gandhian Young Technological Innovation Award** — SRISTI
+
+## 🎓 Education {#education}
+
+- **Ph.D. in Chemical Engineering** — University at Buffalo, The State University of New York
+- **M.Tech in Chemical Engineering** — Indian Institute of Technology, Guwahati
+- **B.Tech in Chemical Engineering** — National Institute of Technology, Calicut
 

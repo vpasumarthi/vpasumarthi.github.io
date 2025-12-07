@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '2rem'
 
 sections:
   - block: resume-biography-3
@@ -15,11 +15,9 @@ sections:
       username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+
       headings:
-        about: ''
+        about: 'About Me'
         education: ''
         interests: ''
     design:

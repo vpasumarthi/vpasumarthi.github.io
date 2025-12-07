@@ -8,3 +8,63 @@ h1.text-6xl,
   font-size: 1.875rem !important;
   line-height: 2.25rem !important;
 }
+
+/* Fix Navbar Alignment - Split links and icons */
+.navbar {
+  justify-content: space-between !important;
+  min-height: 2rem !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Header bar spacing */
+header.header {
+  padding-top: 0.25rem !important;   /* small gap above nav */
+  padding-bottom: 0.25rem !important;/* small gap below nav */
+  height: auto !important;
+}
+
+/* Navigation Links Container - Keep on the left */
+.navbar-collapse {
+  flex-grow: 0 !important;
+  display: flex !important;
+  align-items: center !important;
+}
+
+/* Right Icons Container - Keep on the right */
+.navbar .flex.items-center.ml-auto {
+  margin-left: auto !important;
+}
+
+/* Increase Nav Link Font Size but Reduce Padding */
+.nav-link {
+  font-size: 1.1rem !important;
+  padding-top: 0.3rem !important;
+  padding-bottom: 0.25rem !important;
+  line-height: normal !important;
+}
+
+/* Match font sizes on right side */
+.navbar .flex.items-center.ml-auto,
+.navbar .flex.items-center.ml-auto *,
+.theme-toggle,
+.dropdown-item {
+  font-size: 1.1rem !important;
+}
+
+.navbar .flex.items-center.ml-auto svg {
+  width: 1.25em !important;
+  height: 1.25em !important;
+}
+
+/* Hero (photo + About Me) - kill huge Tailwind padding */
+#section-resume-biography-3 .resume-biography {
+  padding-top: 0.5rem !important;    /* top gap under header */
+  padding-bottom: 1.5rem !important; /* space before “Research” */
+}
+
+/* Add controlled gap between header and hero section */
+#section-resume-biography-3 {
+  padding-top: 2rem !important;   /* tune this value for more/less gap */
+  padding-bottom: 2rem !important;   /* tune this value for more/less gap */
+}
